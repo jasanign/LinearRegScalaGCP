@@ -1,0 +1,288 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+5 items
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes\linear2$$anonfun$1.class
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes\linear2$$anonfun$2.class
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes\linear2$$typecreator1$1.class
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes\linear2$.class
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes\linear2.class
+binary dependencies:
+9 items
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> C:\Users\jasan\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.0.0.jar
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.0.jar
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-mllib-local_2.11\jars\spark-mllib-local_2.11-2.0.0.jar
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.0.0.jar
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.0.0.jar
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> C:\Users\jasan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> C:\Users\jasan\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+5 items
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> linear2
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> linear2$
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> linear2$$anonfun$1
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> linear2$$anonfun$2
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> linear2$$typecreator1$1
+used names:
+173 items
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> !=
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> $m
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> $m$untyped
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> $typecreator1
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> $u
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> &&
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> +
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> ::
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> <init>
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> <repeated>
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> ==
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> ?0
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> A1
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Any
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> AnyRef
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Array
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> B
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Boolean
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Builder
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Class
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> ClassLoader
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> ClassSymbol
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Column
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> CrossValidator
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> CrossValidatorModel
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> DataFrame
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> DataFrameReader
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> DataType
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Dataset
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Double
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> DoubleType
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Estimator
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Evaluator
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> File
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Function1
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> IndexedSeq
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Int
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> IntParam
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> IntegerType
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> JavaUniverse
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Level
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> LinearRegression
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> List
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Logger
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> MatchError
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Metadata
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Mirror
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Nil
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Nothing
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> OFF
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Object
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Option
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> ParamGridBuilder
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> ParamMap
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Predef
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> PrintWriter
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> RT
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> RegressionEvaluator
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Row
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Seq
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Singleton
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Source
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> SparkConf
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> SparkContext
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> SparkSession
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> String
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> StringType
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> StructField
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> StructType
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> T
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> T0
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> T1
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> T2
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Tuple2
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Type
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> TypeCreator
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> TypeSymbol
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> TypeTag
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> U
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Unit
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Universe
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> UserDefinedFunction
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Vector
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> Vectors
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> _$1
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> _$2
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> _$7
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> _1
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> _2
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> a
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> addGrid
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> apache
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> appName
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> apply
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> asInstanceOf
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> asType
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> build
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> builder
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> cache
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> config
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> csv
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> cv
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> cvmodel
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> cvtrans
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> dense
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> doLabel
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> evaluate
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> evaluation
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> fit
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> format
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> functions
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> get
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> getClass
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> getClassLoader
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> getLogger
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> getOrCreate
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> immutable
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> io
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> isEmpty
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> java
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> labelledData
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> lengthCompare
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> linalg
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> linear2
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> lireg
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> log4j
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> makeFV
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> master
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> materializeTypeTag
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> maxIter
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> ml
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> option
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> org
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> package
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> pgrid
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> print
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> r2
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> randomSplit
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> read
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> reflect
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> regression
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> runtime
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> runtimeMirror
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> scala
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> schema
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> select
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> session
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> setAppName
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> setEstimator
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> setEstimatorParamMaps
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> setEvaluator
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> setLevel
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> setMaster
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> setMetricName
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> setNumFolds
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> show
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> spark
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> sql
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> staticClass
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> table
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> testing
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> toDouble
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> toTypeConstructor
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> training
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> transform
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> tuning
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> types
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> udf
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> unapplySeq
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> unary_!
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> unchecked
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> universe
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> withColumn
+product stamps:
+5 items
+L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes\linear2$$anonfun$1.class -> lastModified(1493237774697)
+L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes\linear2$$anonfun$2.class -> lastModified(1493237774697)
+L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes\linear2$$typecreator1$1.class -> lastModified(1493237774697)
+L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes\linear2$.class -> lastModified(1493237774682)
+L:\WORKSPACES\cs496_workspace\LinearRegression2\target\scala-2.11\classes\linear2.class -> lastModified(1493237774572)
+source stamps:
+1 items
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> hash(3b6d83870909d556392b059d98f78034a73ecb10)
+binary stamps:
+9 items
+C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> lastModified(1492903523765)
+C:\Users\jasan\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> lastModified(1338025419000)
+C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.0.0.jar -> lastModified(1468969882000)
+C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-mllib-local_2.11\jars\spark-mllib-local_2.11-2.0.0.jar -> lastModified(1468969056000)
+C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.0.0.jar -> lastModified(1468970192000)
+C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.0.0.jar -> lastModified(1468970091000)
+C:\Users\jasan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\jasan\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+class names:
+9 items
+C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> java.lang.Object
+C:\Users\jasan\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> org.apache.log4j.Category
+C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.0.0.jar -> org.apache.spark.sql.types.IntegerType
+C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.0.jar -> org.apache.spark.SparkContext$
+C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-mllib-local_2.11\jars\spark-mllib-local_2.11-2.0.0.jar -> org.apache.spark.ml.linalg.Vectors
+C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.0.0.jar -> org.apache.spark.ml.Estimator
+C:\Users\jasan\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.0.0.jar -> org.apache.spark.sql.SparkSession
+C:\Users\jasan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.collection.SeqLike
+C:\Users\jasan\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwegycPgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwddWOWHQABm5vdGlmeXNxAH4ADKVit1h0AAR3YWl0c3EAfgAMBbFo6nQAB2xpbmVhcjJzcQB+AAz7ufcSdAANJGFzSW5zdGFuY2VPZnNxAH4ADLuRuZF0AAZlcXVhbHNzcQB+AAwGCq+vdAAMYXNJbnN0YW5jZU9mc3EAfgAMlPUrinQADHN5bmNocm9uaXplZHNxAH4ADFNbyOV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMV2UHQXQABG1haW5zcQB+AAyckut0dAAJbm90aWZ5QWxsc3EAfgAMOS3UtnQADGlzSW5zdGFuY2VPZnNxAH4ADCPOp/F0AAI9PXNxAH4ADL+1vmB0AAVjbG9uZXNxAH4ADFPAUxZ0AAh0b1N0cmluZ3NxAH4ADPBEQ0h0AAIhPXNxAH4ADPDpqhF0AAhnZXRDbGFzc3NxAH4ADLJssz10AAJuZXNxAH4ADBeSkjZ0AAJlcXNxAH4ADDSBy0B0AAIjI3NxAH4ADLZBMtF0AAhmaW5hbGl6ZXNxAH4ADNQ8nSZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AE3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB91cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBleHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBsWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBcc3EAfgBrdAAFQXJyYXlxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBrdAAGU3RyaW5nc3EAfgBvc3EAfgBydXEAfgB1AAAAA3NxAH4Ad3QABGphdmFzcQB+AHd0AARsYW5ncQB+AHxzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgCQAAAAAnNxAH4Aa3QABk9iamVjdHEAfgCUc3EAfgBrdAADQW55cQB+AHF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6voKpV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABJTDpcV09SS1NQQUNFU1xjczQ5Nl93b3Jrc3BhY2VcTGluZWFyUmVncmVzc2lvbjJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDttg4cJCdVWOSsFnZj3gDSnPssQ
+external apis:
+0 items
+source infos:
+1 items
+L:\WORKSPACES\cs496_workspace\LinearRegression2\src\main\scala\linear2.scala -> 
+AAAAAAAAAAA=
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWlhL+uh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUw6XFdPUktTUEFDRVNcY3M0OTZfd29ya3NwYWNlXExpbmVhclJlZ3Jlc3Npb24yXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6uTEYh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUw6XFdPUktTUEFDRVNcY3M0OTZfd29ya3NwYWNlXExpbmVhclJlZ3Jlc3Npb24yXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6uheUF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUw6XFdPUktTUEFDRVNcY3M0OTZfd29ya3NwYWNlXExpbmVhclJlZ3Jlc3Npb24yXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6vCwzx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUw6XFdPUktTUEFDRVNcY3M0OTZfd29ya3NwYWNlXExpbmVhclJlZ3Jlc3Npb24yXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6vLKbV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUw6XFdPUktTUEFDRVNcY3M0OTZfd29ya3NwYWNlXExpbmVhclJlZ3Jlc3Npb24yXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6vXs1p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUw6XFdPUktTUEFDRVNcY3M0OTZfd29ya3NwYWNlXExpbmVhclJlZ3Jlc3Npb24yXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6vbQvh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUw6XFdPUktTUEFDRVNcY3M0OTZfd29ya3NwYWNlXExpbmVhclJlZ3Jlc3Npb24yXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6voKpV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUw6XFdPUktTUEFDRVNcY3M0OTZfd29ya3NwYWNlXExpbmVhclJlZ3Jlc3Npb24yXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
